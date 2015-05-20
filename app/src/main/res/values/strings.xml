@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea4-DS-JR</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ButtonMaps">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_routes">Routes</string>
+    <string name="title_activity_routes_details">routesDetails</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_details">Details</string>
+
+</resources>
